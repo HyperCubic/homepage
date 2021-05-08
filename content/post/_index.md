@@ -1,6 +1,7 @@
 ---
 title: Posts
-cms_exclude: false
+cms_exclude: true
+headless: true
 
 # View.
 #   1 = List
@@ -12,4 +13,8 @@ view: 2
 header:
   caption: ""
   image: ""
+
+date:
+
+- :default
 ---

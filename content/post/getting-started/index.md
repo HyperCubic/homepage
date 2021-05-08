@@ -1,16 +1,17 @@
 ---
 title: Hello World
-subtitle: Hello World
+subtitle: ''
 
 # Summary for listings and search engines
-summary: 
+summary: Hello World
 
 # Link this post with a project
 projects: []
 
-# Date published
-date: "2021-02-03T00:00:00Z"
+profile: false
+reading_time: false
+comments: false
+share: false
+show_date: false
 
-# Date updated
-lastmod: "2021-02-03T00:00:00Z"
 ---
