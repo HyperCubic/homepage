@@ -44,4 +44,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a second year master student majoring in Computer Science at {{< staticref "https://www.gatech.edu/" "newtab" >}}Georgia Tech{{< /staticref >}}. Before that, I received B.E. in Computer Science and Technology in {{< staticref "https://www.zju.edu.cn" "newtab" >}}Zhejiang University{{< /staticref >}}. I am interested in Computer Animation and Robotics, especially making simulation environments for it and generating natural motion.
+I am a second year master student majoring in Computer Science at {{< staticref "https://www.gatech.edu/" "newtab" >}}Georgia Tech{{< /staticref >}}. Before that, I received B.E. in Computer Science and Technology in {{< staticref "https://www.zju.edu.cn" "newtab" >}}Zhejiang University{{< /staticref >}}. I am interested in Reinforcement Learning, Computer Animation and Robotics.
